@@ -1,0 +1,4 @@
+{
+    "INPUT_PATH": "data/links/RegisKillbin-202106052035.list",
+    "OUTPUT_PATH": "data/scrapes/regis.json"
+}
