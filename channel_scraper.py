@@ -45,7 +45,7 @@ def load_configuration_file(optionsPath: str):
 
 # THE MAIN METHOD
 # ============================ #
-if __name__ == "main":
+if __name__ == "__main__":
     runtime_start = time()
     random_generator = random.randint(0, 36)
 

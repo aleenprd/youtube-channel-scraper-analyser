@@ -234,7 +234,7 @@ def scrape_list(links_list: List) -> List:
 
 # THE MAIN METHOD
 # ============================ #
-if __name__ == "main":
+if __name__ == "__main__":
     runtime_start = time()
 
     # Random generate times for sleep intervals
